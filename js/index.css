@@ -1,0 +1,12 @@
+.gift-card img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    max-width: 80%;
+    height: 200px;
+}
+.gift-item{
+    filter: blur(50px);
+}
+.gift-card{
+    text-align: center;
+}
